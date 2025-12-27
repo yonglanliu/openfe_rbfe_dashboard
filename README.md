@@ -1,6 +1,8 @@
 # OpenFE RBFE Dashboard
 An intuitive, web-based dashboard for performing Relative Binding Free Energy (RBFE) and alchemical Free Energy Perturbation (FEP) calculations using the [OpenFE framework]("https://github.com/IIIS-Li-Group/OpenFE").
 
+⚠️ **Work in Progress: This dashboard is currently under heavy development.**
+
 ## 📖 Background & Concepts
 If you are new to the world of alchemical transformations, start with my introductory guide: 
 👉 Read the Blog Post: [Introduction to Alchemical Free Energy Calculation: FEP and TI for RBFE](https://yonglanliu.github.io/2025/12/19/RBFE.html). 
