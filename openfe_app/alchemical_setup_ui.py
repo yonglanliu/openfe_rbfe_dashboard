@@ -342,7 +342,7 @@ def alchemical_setup_tab(
         ))
     with c4:
         pos_freq = float(st.text_input(
-            "Position Write Frequency (ns)",
+            "Position Write Frequency (ps)",
             value=100
         ))
     st.divider()
